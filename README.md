@@ -13,9 +13,9 @@ In this Master´s thesis kinematic and muscular synergies in the human grasp are
 Download the jupiter notebook script and install VS Code to open it. The Scripts are written in Python. Install necessary libraries and packages through the python terminal. 
 
 ## Authors and acknowledgment
-B. Sc. Patrick Schmidt
-Dr. Patricia Capsi Morales 
-Prof Dr. Cristina Piazza
+B. Sc. Patrick Schmidt  
+Dr. Patricia Capsi Morales  
+Prof. Dr. Cristina Piazza
 
 ## License
 Ownership by TUM  
