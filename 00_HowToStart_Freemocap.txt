@@ -1,0 +1,25 @@
+# Install and Run FreeMoCap in a Python 3.11 Virtual Environment
+
+1. **Open Command Prompt**.
+
+2. **Navigate to User Directory**:
+	cd C:\Users\schmi
+
+3. **Create Virtual Environment**:
+python -m venv freemocap_env_311
+
+4. **Activate Virtual Environment**:
+.\freemocap_env_311\Scripts\activate
+
+5. **Install FreeMoCap**:
+pip install freemocap
+
+6. **Launch FreeMoCap**:
+freemocap
+
+
+**Notes**:
+- To deactivate the environment, type `deactivate`.
+- Ensure Python 3.11.x is installed. Verify with `python --version`.
+- If `pip` needs updating, run `python -m pip install --upgrade pip`.
+- it is important the the opencv Conflict is resolved after Opening freemocap the first time
