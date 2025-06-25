@@ -1,0 +1,55 @@
+This .gitignore file is configured to exclude common Python artifacts, virtual environment directories, and specific folders from your Git repository.
+
+# =====================================================================
+# Python / General
+# =====================================================================
+
+# Virtual Environments
+# Ignore common names for virtual environment folders
+venv/
+.venv/
+env/
+ENV/
+*.env
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+
+# =====================================================================
+# Custom Folders (User Specified)
+# =====================================================================
+
+# Ignore the Master's thesis data folder
+Masterthesis Folder/
+
+
+# =====================================================================
+# IDE / Editor specific
+# =====================================================================
+
+# Visual Studio Code
+.vscode/
+
+# Jetbrains (PyCharm, etc.)
+.idea/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
