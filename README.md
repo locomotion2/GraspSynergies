@@ -7,7 +7,7 @@ To make it easy for you to get started with extracting combined kinematic- muscu
 
 
 ## Description
-In this Master´s thesis kinematic and muscular synergies in the human grasp are analyzed through a human motor control study. The participants have to perform a lift and hold task with different 3D printed handle under various weight conditions. The movements of the hand are recorded by three webcams and the kinematics are extracted through the media pipeline neural network using the free motion capture software freemocap. The myoelctric signals from forearm and thenar muscles are recorded via two OTB+ Grid electrodes (2x64) while the muscle activity of extensor muscles in the forearm as well as Biceps and Triceps are recorded by Myobock EMG sensors. 
+In this Master´s thesis kinematic and muscular synergies in the human grasp are analyzed through a human motor control study. The participants have to perform a lift and hold task with different 3D printed handles under various weight conditions. The movements of the hand are recorded by three webcams and the kinematics are extracted through the media pipeline neural network using the free motion capture software freemocap. The myoelctric signals from forearm and thenar muscles are recorded via two OTB+ Grid electrodes (2x64) while the muscle activity of extensor muscles in the forearm as well as Biceps and Triceps are recorded by Myobock EMG sensors. 
 
 # Data Structure and Analysis Workflow
 
